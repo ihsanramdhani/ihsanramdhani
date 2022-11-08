@@ -2,7 +2,6 @@
 - 👀 I’m interested in backend programming
 - 🌱 I’m currently learning go and python
 
-<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanramdhani&layout=compact&hide=jupyter%20notebook)](https://github.com/ihsanramdhani/github-readme-stats)>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanramdhani&layout=compact)](https://github.com/ihsanramdhani/github-readme-stats)
 
 <!---
