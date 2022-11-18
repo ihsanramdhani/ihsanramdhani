@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning go and python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanramdhani&layout=compact)](https://github.com/ihsanramdhani/github-readme-stats)
-[![@ihsanramdhani6's Holopin board](https://holopin.me/ihsanramdhani6)](https://holopin.io/@ihsanramdhani6)
 
 <!---
 ihsanramdhani/ihsanramdhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
